@@ -272,7 +272,7 @@ export default function Fifth_SP() {
           </div>
         </>
       ) : step !== "process" && step !== "completed" ? (
-        <div className="checking" style={{ fontWeight: "701" }}>
+        <div className="checking" style={{ fontWeight: "700" }}>
           {step}
         </div>
       ) : (
