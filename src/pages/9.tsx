@@ -243,7 +243,7 @@ export default function Fifth_SP() {
               </div>
               {/* <img className='topic-img-larger' src = {Headline} alt = "head"/> */}
               <img className="topic-img-middle" src={Head_bgs} alt="head" />
-              <div className="main-des-title-6-7">
+              <div className="main-des-5">
                 Americans over 65 years old can claim the 2023 Grocery Allowance
                 Card that gives them up to $3600. Americans can use the funds to
                 fully cover their Groceries, Medicines, etc. at Walmart and
