@@ -236,7 +236,7 @@ export default function Fifth_SP() {
                 <b>
                   Americans Over 65 Can Now Qualify For The
                   <span style={{ backgroundColor: "#fde047" }}>
-                    {" "}
+                    
                     $3600 Grocery Allownace in 2023!
                   </span>
                 </b>
