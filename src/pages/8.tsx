@@ -234,12 +234,12 @@ export default function Fifth_SP() {
               <div className="main-des-title-60a">
                 {/* <div className='main-des-title-6'><b>Finalmente, los deudores están obteniendo hasta un<span style={{backgroundColor:"#fde047"}}> 100% de perdón financiero</span> bajo este programa respaldado por abogados, ¡Aquí está cómo!</b></div> */}
                 <b>
-                  Americans Over 65 Can Now Qualify For The
-                  <span style={{ backgroundColor: "#fde047" }}>
-                    
-                     $3600 Grocery Allownace in 2023!
-                  </span>
-                </b>
+  Americans Over 65 Can Now Qualify For The&nbsp;
+  <span style={{ backgroundColor: "#fde047" }}>
+    $3600 Grocery Allowance in 2023!
+  </span>
+</b>
+
               </div>
               {/* <img className='topic-img-larger' src = {Headline} alt = "head"/> */}
               <img className="topic-img-middle" src={Head_bgs} alt="head" />
