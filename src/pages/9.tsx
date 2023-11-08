@@ -92,7 +92,7 @@ export default function Fifth_SP() {
     });
   };
 
-  const [quiz, setQuiz] = useState("Are you over the age of 60?  ");
+  const [quiz, setQuiz] = useState("Are you over the age of 65?  ");
   const [step, setStep] = useState("process");
   const [min, setMin] = useState(3);
   const [second, setSecond] = useState<any>(0);
@@ -160,7 +160,7 @@ export default function Fifth_SP() {
 
   const handleQuizP = () => {
     topScroll("btn");
-    if (quiz === "Are you over the age of 60?  ") {
+    if (quiz === "Are you over the age of 65?  ") {
       setQuiz("2. Do you live in the United States?");
     } else {
       setStep("Reviewing Your Answers...");
@@ -192,7 +192,7 @@ export default function Fifth_SP() {
 
   const handleQuizN = () => {
     topScroll("btn");
-    if (quiz === "Are you over the age of 60?  ") {
+    if (quiz === "Are you over the age of 65?  ") {
       setQuiz("2. Do you live in the United States?");
     } else {
       setStep("Reviewing Your Answers...");
@@ -243,7 +243,7 @@ export default function Fifth_SP() {
               </div>
               {/* <img className='topic-img-larger' src = {Headline} alt = "head"/> */}
               <img className="topic-img-middle" src={Head_bgs} alt="head" />
-              <div className="main-des-5">
+              <div className="main-des-title-6-7">
                 Americans over 65 years old can claim the 2023 Grocery Allowance
                 Card that gives them up to $3600. Americans can use the funds to
                 fully cover their Groceries, Medicines, etc. at Walmart and
