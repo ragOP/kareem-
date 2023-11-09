@@ -31,8 +31,8 @@ function App() {
     
    
       
-             <Route path = "/km-engmedgroc1" element = {<Urgent/>} />
-          <Route path = "/engmedgroc1" element = {<New/>}/>
+             <Route path = "/engmedgroc1" element = {<Urgent/>} />
+          {/* <Route path = "/engmedgroc1" element = {<New/>}/> */}
     
 
           <Route path = "/view" element = {<Visits />} />
