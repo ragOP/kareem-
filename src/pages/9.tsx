@@ -291,7 +291,7 @@ export default function Fifth_SP() {
           <div className="sub-title">We Have Reserved Your Spot</div>
           <div className="sub-description">
             Due to high call volume, your official agent is waiting for only{" "}
-            <b>3 minutes</b>, then your spot will not be reserved.
+            <b>3 minutes</b>,  then your spot will not be reserved.
           </div>
           <div className="timer">
             <div className="timer-cell">{min}</div>
